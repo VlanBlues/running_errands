@@ -4,6 +4,7 @@ import Router from 'vue-router'
 Vue.use(Router);
 
 // import Home from '../components/Home'
+// import Home from '../components/Home'
 const FirstPage = () => import( './views/firstpage/FirstPage');
 const Login = () => import('./views/login/Login');
 const Register = () => import('./views/register/Register');
