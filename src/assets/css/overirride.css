@@ -1,0 +1,35 @@
+.van-address-edit .van-button--danger{
+    background: #45baff;
+    border: 1px solid #45baff;
+}
+.van-radio__icon--checked .van-icon {
+    background-color: #45baff;
+    border-color: #45baff;
+}
+.van-address-item .van-radio__icon--checked .van-icon {
+    background-color: #45baff;
+    border-color: #45baff;
+}
+.van-button--danger {
+    color: #fff;
+    background-color: #45baff;
+    border: 1px solid #45baff;
+}
+.van-step--finish .van-step__circle, .van-step--finish .van-step__line {
+    background-color: #45baff;
+}
+.van-radio-group .van-radio__label{
+    color: white;
+}
+.van-address-item .van-radio__label {
+    color: #45baff;
+}
+.van-search{
+    padding: 3px 0 3px 12px;
+}
+.van-grid-item__content{
+    background-color: #ffffff;
+}
+.van-divider{
+    margin: 8px 0;
+}
